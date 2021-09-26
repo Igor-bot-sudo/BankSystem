@@ -1,0 +1,3 @@
+﻿[]
+4
+[{"FirstName":"Иван","LastName":"Петров","Count":123.0,"CurrentCount":123.0,"CountNumber":1,"Capitalization":false,"Category":"Обычный клиент","dateTime":"2019-11-13T00:00:00"},{"FirstName":"Петр","LastName":"Сидоров","Count":234.0,"CurrentCount":243.72384769345518,"CountNumber":2,"Capitalization":true,"Category":"Обычный клиент","dateTime":"2021-02-23T00:00:00"},{"FirstName":"Эфраим","LastName":"Шнеерзон","Count":1234.0,"CurrentCount":1336.2451747450509,"CountNumber":3,"Capitalization":true,"Category":"VIP-клиент","dateTime":"2020-12-31T00:00:00"},{"FirstName":"Компания","LastName":"Рога и копыта","Count":21345.0,"CurrentCount":22994.627062911975,"CountNumber":4,"Capitalization":true,"Category":"Юридическое лицо","dateTime":"2021-04-01T00:00:00"}]
